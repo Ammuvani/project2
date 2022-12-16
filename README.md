@@ -6,7 +6,7 @@ This web based health application has been developed for the accomplishment of F
 
 
 **Project Link** https://ambitious-sand-036395600.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/fKsbn4N5uYM
 
 ##Azure technologies used for Project
 
